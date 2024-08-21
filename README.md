@@ -3,9 +3,9 @@
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/74b9ff80-ee38-4f18-88b4-423ebddd99f3/dbi15rh-a2c1f436-a08b-4732-b653-c20c67ef2eb4.jpg/v1/fill/w_1500,h_500,q_75,strp/header_luffy__one_piece__by_paulabstract_dbi15rh-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTAwIiwicGF0aCI6IlwvZlwvNzRiOWZmODAtZWUzOC00ZjE4LTg4YjQtNDIzZWJkZGQ5OWYzXC9kYmkxNXJoLWEyYzFmNDM2LWEwOGItNDczMi1iNjUzLWMyMGM2N2VmMmViNC5qcGciLCJ3aWR0aCI6Ijw9MTUwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.TM7pqt_00Q7FS0rr5150PrZXRPFJk50QyKyVswel1d4" alt="Banner" width="100%" height="auto">
 </div>
 
-# Olá, sou o Carlos! 👋
+# Olá, sou o Carlos Alexandre! 👋
 
-### Sou um Desenvolvedor Front-End Brasileiro apaixonado por criar experiências incríveis na web.
+### Sou um Desenvolvedor Back-end Brasileiro apaixonado por criar experiências incríveis.
 
 ## 🚀 Skills
 <div align="center">
