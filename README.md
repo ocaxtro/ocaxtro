@@ -9,8 +9,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Alexandre-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ocaxtro/)](https://www.linkedin.com/in/ocaxtro/) 
 [![Gmail Badge](https://img.shields.io/badge/-cttdevcarlos@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cttdevcarlos@gmail.com)](mailto:cttdevcarlos@gmail.com)
 
-Olá! Sou Carlos Alexandre, Desenvolvedor Back-End em Java, apaixonado por suco de maracujá e pela rica cultura japonesa.
+Olá! Sou Carlos Alexandre, um Desenvolvedor Back-End especializado em Java, movido pela curiosidade tecnológica e por uma paixão genuína por suco de maracujá e pela cultura rica e fascinante do Japão.
 
-Minha jornada no mundo da programação começou em 2019, quando dei meus primeiros passos com a linguagem Lua. Foi nessa época que mergulhei na criação de estilos de cidades para o jogo FIVEM, passando horas desenvolvendo e testando cenários. Esse fascínio por construir mundos virtuais despertou em mim uma paixão imensa por desenvolver sites, jogos e aplicativos.
+Minha jornada na programação teve início em 2019, quando me aventurei pela primeira vez na linguagem Lua. Foi nesse período que descobri o imenso prazer de criar e moldar mundos virtuais, dedicando horas ao desenvolvimento e testes de cenários para jogos. Essa experiência não apenas me ensinou os fundamentos da programação, mas também despertou uma paixão profunda por transformar ideias em realidades interativas, sejam elas sites, jogos ou aplicativos.
 
-**Se você está procurando inovar e precisa de um projeto novo para sua empresa, vamos conversar! Juntos, podemos transformar grandes ideias em realidade.**
+Ao longo do tempo, trabalhei como desenvolvedor Front-End, onde adquiri uma forte compreensão do design e da experiência do usuário. No entanto, foi no Back-End que encontrei minha verdadeira vocação, mergulhando de cabeça no desenvolvimento de soluções robustas e escaláveis. Atualmente, estou focado em encontrar novas oportunidades que me desafiem a criar sistemas inovadores e eficientes, sempre com um olhar voltado para o futuro da tecnologia.
+
+**Se você está em busca de inovação e precisa de alguém para transformar grandes ideias em projetos concretos para sua empresa, estou aqui para colaborar. Vamos juntos dar vida às suas visões e construir algo extraordinário!**
