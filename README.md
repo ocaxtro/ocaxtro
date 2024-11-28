@@ -9,7 +9,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Carlos%20Alexandre-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ocaxtro/)](https://www.linkedin.com/in/ocaxtro/) 
 [![Gmail Badge](https://img.shields.io/badge/-cttdevcarlos@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cttdevcarlos@gmail.com)](mailto:cttdevcarlos@gmail.com)
 
-Olá! Sou Carlos Alexandre, um Desenvolvedor Back-End em Java, movido pela curiosidade tecnológica e por uma paixão genuína por suco de maracujá e pela cultura rica e fascinante do Japão.
+Olá! Sou Carlos Alexandre, um Desenvolvedor Full-Stack, movido pela curiosidade tecnológica e por uma paixão genuína por suco de maracujá e pela cultura rica e fascinante do Japão.
 
 Minha jornada na programação teve início em 2019, quando me aventurei pela primeira vez na linguagem Lua. Foi nesse período que descobri o imenso prazer de criar e moldar mundos virtuais, dedicando horas ao desenvolvimento e testes de cenários para jogos. Essa experiência não apenas me ensinou os fundamentos da programação, mas também despertou uma paixão profunda por transformar ideias em realidades interativas, sejam elas sites, jogos ou aplicativos.
 
